@@ -28,7 +28,8 @@
       "referer": "https://www.livedoomovies.com:4431/",
       "userAgent": "Mozilla/5.0",
       "info": "server 88-hd",
-      "playInNatPlayer": true
+      "playInNatPlayer": true,
+      "embed": true
 },
     {
       "name": "Monomax_PL 2 HD 222",

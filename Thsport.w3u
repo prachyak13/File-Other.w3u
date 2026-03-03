@@ -1,7 +1,7 @@
 {
   "name": "Sport Thai",
   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNGqn7Y1FaM7JcmAobSk-8dLTIsiIoE9xcIOKNjh6ksg&s=10",
-  "author": "update 02/03/26",
+  "author": "update 03/03/26",
   "stations": [
     {
       "name": "monomax1",
@@ -154,7 +154,7 @@
     {
       "name": "truesports 2 สำรอง",
       "image": "https://www.imgx01.xyz/assets/img/ch_logo/TrueSport2.jpg",
-      "url": "https://www.88-hd.com/?r=tv_view&id=2224",
+      "url": "https://www.88-hd.com/?r=tv_view&id=33",
       "referer": "https://www.88-hd.com/?r=live_tv",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
       "info": "server 88-hd",
@@ -173,7 +173,7 @@
     {
       "name": "truesports 3 สำรอง",
       "image": "https://www.imgx01.xyz/assets/img/ch_logo/TrueSport3.jpg",
-      "url": "https://www.88-hd.com/?r=tv_view&id=2224",
+      "url": "https://www.88-hd.com/?r=tv_view&id=34",
       "referer": "https://www.88-hd.com/?r=live_tv",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
       "info": "server 88-hd",
@@ -192,7 +192,7 @@
     {
       "name": "truesports 4 สำรอง",
       "image": "https://www.imgx01.xyz/assets/img/ch_logo/TrueSport4.jpg",
-      "url": "https://www.88-hd.com/?r=tv_view&id=2224",
+      "url": "https://www.88-hd.com/?r=tv_view&id=35",
       "referer": "https://www.88-hd.com/?r=live_tv",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
       "info": "server 88-hd",
@@ -211,7 +211,7 @@
     {
       "name": "truesports 5 สำรอง",
       "image": "https://www.imgx01.xyz/assets/img/ch_logo/TrueSport5.jpg",
-      "url": "https://www.88-hd.com/?r=tv_view&id=2224",
+      "url": "https://www.88-hd.com/?r=tv_view&id=36",
       "referer": "https://www.88-hd.com/?r=live_tv",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
       "info": "server 88-hd",
@@ -230,7 +230,7 @@
     {
       "name": "truesports 7 สำรอง",
       "image": "https://www.imgx01.xyz/assets/img/ch_logo/TrueSport7.jpg",
-      "url": "https://www.88-hd.com/?r=tv_view&id=2224",
+      "url": "https://www.88-hd.com/?r=tv_view&id=38",
       "referer": "https://www.88-hd.com/?r=live_tv",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
       "info": "server 88-hd",

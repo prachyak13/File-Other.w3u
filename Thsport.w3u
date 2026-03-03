@@ -134,6 +134,69 @@
       "playInNatPlayer": true
 },
     {
+      "name": "truesports 1 สำรอง",
+      "image": "https://dookeela4.live/uploads/1664802455.png",
+      "url": "https://dookeela4.live/live-tv/tsp1",
+      "referer": "https://dookeela4.live/",
+      "userAgent": "Mozilla/5.0",
+      "info": "server dookeela",
+      "playInNatPlayer": true
+},
+    {
+      "name": "truesports 2 สำรอง",
+      "image": "https://dookeela4.live/uploads/1664499966.png",
+      "url": "https://dookeela4.live/live-tv/tsp2",
+      "referer": "https://dookeela4.live/",
+      "userAgent": "Mozilla/5.0",
+      "info": "server dookeela",
+      "playInNatPlayer": true
+},
+    {
+      "name": "truesports 3 สำรอง",
+      "image": "https://dookeela4.live/uploads/1664802480.png",
+      "url": "https://dookeela4.live/live-tv/tsp3",
+      "referer": "https://dookeela4.live/",
+      "userAgent": "Mozilla/5.0",
+      "info": "server dookeela",
+      "playInNatPlayer": true
+},
+    {
+      "name": "truesports 4 สำรอง",
+      "image": "https://dookeela4.live/uploads/1717396131.png",
+      "url": "https://dookeela4.live/live-tv/tsp4",
+      "referer": "https://dookeela4.live/",
+      "userAgent": "Mozilla/5.0",
+      "info": "server dookeela",
+      "playInNatPlayer": true
+},
+    {
+      "name": "truesports 5 สำรอง",
+      "image": "https://dookeela4.live/uploads/1664847910.png",
+      "url": "https://dookeela4.live/live-tv/tsp5",
+      "referer": "https://dookeela4.live/",
+      "userAgent": "Mozilla/5.0",
+      "info": "server dookeela",
+      "playInNatPlayer": true
+},
+    {
+      "name": "truesports 7 สำรอง",
+      "image": "https://dookeela4.live/uploads/1664847921.png",
+      "url": "https://dookeela4.live/live-tv/tsp7",
+      "referer": "https://dookeela4.live/",
+      "userAgent": "Mozilla/5.0",
+      "info": "server dookeela",
+      "playInNatPlayer": true
+},
+    {
+      "name": "xxx สำรอง",
+      "image": "xxx",
+      "url": "xxx",
+      "referer": "https://dookeela4.live/",
+      "userAgent": "Mozilla/5.0",
+      "info": "server dookeela",
+      "playInNatPlayer": true
+},
+    {
       "name": "True Premier Football 3",
       "image": "https://dookeela4.live/uploads/1664499681.png",
       "url": "http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776163&extension=m3u8",

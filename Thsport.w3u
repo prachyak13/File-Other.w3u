@@ -152,6 +152,16 @@
       "playInNatPlayer": true
 },
     {
+      "name": "truesports 2 สำรอง",
+      "image": "https://www.imgx01.xyz/assets/img/ch_logo/TrueSport2.jpg",
+      "url": "https://www.88-hd.com/?r=tv_view&id=2224",
+      "referer": "https://www.88-hd.com/?r=live_tv",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+      "info": "server 88-hd",
+      "playInNatPlayer": true,
+      "desktop": true
+},
+    {
       "name": "truesports 3 สำรอง",
       "image": "https://dookeela4.live/uploads/1664802480.png",
       "url": "https://dookeela4.live/live-tv/tsp3",
@@ -159,6 +169,16 @@
       "userAgent": "Mozilla/5.0",
       "info": "server dookeela",
       "playInNatPlayer": true
+},
+    {
+      "name": "truesports 3 สำรอง",
+      "image": "https://www.imgx01.xyz/assets/img/ch_logo/TrueSport3.jpg",
+      "url": "https://www.88-hd.com/?r=tv_view&id=2224",
+      "referer": "https://www.88-hd.com/?r=live_tv",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+      "info": "server 88-hd",
+      "playInNatPlayer": true,
+      "desktop": true
 },
     {
       "name": "truesports 4 สำรอง",
@@ -170,6 +190,16 @@
       "playInNatPlayer": true
 },
     {
+      "name": "truesports 4 สำรอง",
+      "image": "https://www.imgx01.xyz/assets/img/ch_logo/TrueSport4.jpg",
+      "url": "https://www.88-hd.com/?r=tv_view&id=2224",
+      "referer": "https://www.88-hd.com/?r=live_tv",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+      "info": "server 88-hd",
+      "playInNatPlayer": true,
+      "desktop": true
+},
+    {
       "name": "truesports 5 สำรอง",
       "image": "https://dookeela4.live/uploads/1664847910.png",
       "url": "https://dookeela4.live/live-tv/tsp5",
@@ -177,6 +207,16 @@
       "userAgent": "Mozilla/5.0",
       "info": "server dookeela",
       "playInNatPlayer": true
+},
+    {
+      "name": "truesports 5 สำรอง",
+      "image": "https://www.imgx01.xyz/assets/img/ch_logo/TrueSport5.jpg",
+      "url": "https://www.88-hd.com/?r=tv_view&id=2224",
+      "referer": "https://www.88-hd.com/?r=live_tv",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+      "info": "server 88-hd",
+      "playInNatPlayer": true,
+      "desktop": true
 },
     {
       "name": "truesports 7 สำรอง",
@@ -188,13 +228,34 @@
       "playInNatPlayer": true
 },
     {
-      "name": "xxx สำรอง",
+      "name": "truesports 7 สำรอง",
+      "image": "https://www.imgx01.xyz/assets/img/ch_logo/TrueSport7.jpg",
+      "url": "https://www.88-hd.com/?r=tv_view&id=2224",
+      "referer": "https://www.88-hd.com/?r=live_tv",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+      "info": "server 88-hd",
+      "playInNatPlayer": true,
+      "desktop": true
+},
+    {
+      "name": "--- สำรอง",
       "image": "xxx",
       "url": "xxx",
       "referer": "https://dookeela4.live/",
       "userAgent": "Mozilla/5.0",
       "info": "server dookeela",
       "playInNatPlayer": true
+},
+    {
+      "name": "--- สำรอง",
+      "image": "xxx",
+      "url": "https://www.88-hd.com/?r=tv_view&id=2224",
+      "referer": "https://www.88-hd.com/?r=live_tv",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+      "info": "server 88-hd",
+      "playInNatPlayer": true,
+      "desktop": true
+
 },
     {
       "name": "True Premier Football 3",

@@ -5,7 +5,7 @@
   "groups": [
     {
       "name": "MONOMAX",
-      "image": "xxx",
+      "image": "https://i-pic.info/i/raw/J9pc1742730",
       "author": "xxx",
       "stations": [
         {
@@ -141,12 +141,12 @@
     },
     {
       "name": "TRUE SPORT [TH]",
-      "image": "xxx",
+      "image": "https://www.ohlthai.com/wp-content/uploads/2021/03/true-sport-hd.png",
       "author": "xxx",
       "stations": [
         {
           "name": "truesports 1 สำรอง",
-          "image": "https://dookeela4.live/uploads/1664802455.png",
+          "image": "https://www.imgx01.xyz/assets/img/ch_logo/TrueSport01.jpg",
           "url": "https://dookeela4.live/live-tv/tsp1",
           "referer": "https://dookeela4.live/",
           "userAgent": "Mozilla/5.0",
@@ -162,10 +162,19 @@
           "info": "server 88-hd",
           "playInNatPlayer": true,
           "desktop": true
+ },
+        {
+          "name": "truesports 1",
+          "image": "https://www.imgx01.xyz/assets/img/ch_logo/TrueSport01.jpg",
+          "url": "https://github.com/prachyak13/Thsport/blob/main/truesport1.m3u8",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
         },
         {
           "name": "truesports 2 สำรอง",
-          "image": "https://dookeela4.live/uploads/1664499966.png",
+          "image": "https://www.imgx01.xyz/assets/img/ch_logo/TrueSport2.jpg"",
           "url": "https://dookeela4.live/live-tv/tsp2",
           "referer": "https://dookeela4.live/",
           "userAgent": "Mozilla/5.0",
@@ -181,10 +190,19 @@
           "info": "server 88-hd",
           "playInNatPlayer": true,
           "desktop": true
+ },
+        {
+          "name": "truesports 2",
+          "image": "https://www.imgx01.xyz/assets/img/ch_logo/TrueSport2.jpg"",
+          "url": "https://github.com/prachyak13/Thsport/blob/main/truesport2.m3u8",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
         },
         {
           "name": "truesports 3 สำรอง",
-          "image": "https://dookeela4.live/uploads/1664802480.png",
+          "image": "https://www.imgx01.xyz/assets/img/ch_logo/TrueSport3.jpg",
           "url": "https://dookeela4.live/live-tv/tsp3",
           "referer": "https://dookeela4.live/",
           "userAgent": "Mozilla/5.0",
@@ -200,10 +218,19 @@
           "info": "server 88-hd",
           "playInNatPlayer": true,
           "desktop": true
+},
+        {
+          "name": "truesports 3",
+          "image": "https://www.imgx01.xyz/assets/img/ch_logo/TrueSport3.jpg"",
+          "url": "https://github.com/prachyak13/Thsport/blob/main/truesport3.m3u8",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
         },
         {
           "name": "truesports 4 สำรอง",
-          "image": "https://dookeela4.live/uploads/1717396131.png",
+          "image": "https://www.imgx01.xyz/assets/img/ch_logo/TrueSport4.jpg",
           "url": "https://dookeela4.live/live-tv/tsp4",
           "referer": "https://dookeela4.live/",
           "userAgent": "Mozilla/5.0",
@@ -222,7 +249,7 @@
         },
         {
           "name": "truesports 5 สำรอง",
-          "image": "https://dookeela4.live/uploads/1664847910.png",
+          "image": "https://www.imgx01.xyz/assets/img/ch_logo/TrueSport5.jpg",
           "url": "https://dookeela4.live/live-tv/tsp5",
           "referer": "https://dookeela4.live/",
           "userAgent": "Mozilla/5.0",
@@ -241,7 +268,7 @@
         },
         {
           "name": "truesports 7 สำรอง",
-          "image": "https://dookeela4.live/uploads/1664847921.png",
+          "image": "https://www.imgx01.xyz/assets/img/ch_logo/TrueSport7.jpg",
           "url": "https://dookeela4.live/live-tv/tsp7",
           "referer": "https://dookeela4.live/",
           "userAgent": "Mozilla/5.0",
@@ -262,7 +289,7 @@
     },
     {
       "name": "BEIN SPORT [TH]",
-      "image": "xxx",
+      "image": "https://iconape.com/wp-content/png_logo_vector/bein-sport-1-logo.png",
       "author": "xxx",
       "stations": [
         {
@@ -353,7 +380,7 @@
     },
     {
       "name": "HUB",
-      "image": "xxx",
+      "image": "https://tva.onscreenasia.com/wp-content/uploads/2022/06/5-Hub-Premier-2048x1156.png",
       "author": "xxx",
       "stations": [
         {
@@ -467,8 +494,8 @@
       ]
     },
     {
-      "name": "TRUE PREMIET FOOTBALL",
-      "image": "xxx",
+      "name": "TRUE PREMIER FOOTBALL",
+      "image": "https://dookeela4.live/uploads/1664499681.png",
       "author": "xxx",
       "stations": [
         {
@@ -502,7 +529,7 @@
     },
     {
       "name": "SPOTV",
-      "image": "xxx",
+      "image": "https://thumbor.prod.vidiocdn.com/GnV3jynofUe2nWgjsvokz1-Vyvg=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg",
       "author": "xxx",
       "stations": [
         {
@@ -545,7 +572,7 @@
     },
     {
       "name": "GOLF NBA TENNIS",
-      "image": "xxx",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/78/8f/ca788fde-67b2-15e1-0a66-5b3cb56bb252/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png",
       "author": "รวมยิบย่อย",
       "stations": [
         {
@@ -1099,6 +1126,15 @@
       "referer": "https://dookeela4.live/",
       "userAgent": "Mozilla/5.0",
       "info": "server dookeela",
+      "playInNatPlayer": true
+},
+    {
+      "name": "ANIMAL SHOW [TH]",
+      "image": "https://i.ytimg.com/vi/gRaZAbtHIbw/maxresdefault.jpg",
+      "url": "https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/ANIMALSHOW",
+      "referer": "https://github.com/",
+      "userAgent": "Mozilla/5.0",
+      "info": "Server github",
       "playInNatPlayer": true
     }
   ]

@@ -1,4 +1,5 @@
-{"name": "SPORT THAI",
+{
+"name": "SPORT THAI",
   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNGqn7Y1FaM7JcmAobSk-8dLTIsiIoE9xcIOKNjh6ksg&s=10",
   "author": "update 07/03/26",
   "groups": [
@@ -350,7 +351,7 @@
         {
           "name": "truebein3",
           "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png",
-          "url": "https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/truebeinsport3.m3u8"",
+          "url": "https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/truebeinsport3.m3u8",
           "referer": "https://github.com/",
           "userAgent": "Mozilla/5.0",
           "info": "Server github",

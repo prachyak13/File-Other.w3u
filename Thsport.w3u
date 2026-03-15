@@ -48,10 +48,9 @@
           "name": "88-hd test3",
           "image": "xxx",
           "url": "http://tbtv.me:2095/live/WHMCSMAG:WHMCS:27336/vS4quCfwT5/115513.m3u8",
-          referer": "https://github.com/",
-          "userAgent": "Mozilla/5.0",
-          "info": "Server github",
-          "playInNatPlayer": true
+          "userAgent": "VLC/3.0.18",
+  "info": "Direct Link - TBTV",
+  "playInNatPlayer": false
         },
         {
           "name": "88-hd test4",
